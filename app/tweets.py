@@ -1,4 +1,4 @@
-tweets= [
+tweets = [
     { 
         
         "id": 1,
